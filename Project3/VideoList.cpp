@@ -51,6 +51,7 @@ string VideoList::nextVideo() {
 
 string VideoList::getCurrentVideo() const {
     return current ? current->videoPath : NULL;
+    // testing git
 }
 
 bool VideoList::isEmpty() const {
