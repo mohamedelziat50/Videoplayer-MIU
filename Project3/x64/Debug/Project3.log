@@ -1,6 +1,13 @@
 ﻿  COM Reference 'WMPLib.1.0' is the interop assembly for ActiveX control 'AxWMPLib.1.0' but was marked to be linked by the compiler with the /link flag. This COM reference will be treated as a reference and will not be linked.
   MyForm.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\MH\Desktop\Project3\Project3\MyForm.h(426,25): error C2664: 'std::string msclr::interop::marshal_as<std::string,System::String^>(System::String ^const &)': cannot convert argument 1 from 'System::String ^' to 'System::String ^const &'
+  VideoList.cpp
+  (compiling source file 'MyForm.cpp')
+      C:\Users\MH\Desktop\Project3\Project3\MyForm.h(426,86):
+      An object from the gc heap (element of a managed array) cannot be converted to a native reference
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\msclr\marshal_cppstd.h(33,20):
+      see declaration of 'msclr::interop::marshal_as'
+      C:\Users\MH\Desktop\Project3\Project3\MyForm.h(426,25):
+      while trying to match the argument list '(System::String ^)'
+  
   Generating Code...
-  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Project3.vcxproj -> C:\Users\MH\Desktop\Project3\x64\Debug\Project3.exe

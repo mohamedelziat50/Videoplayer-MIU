@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\MH\\Desktop\\Project3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|solutionrelative:Project3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|solutionrelative:Project3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+      "AbsoluteMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|C:\\Users\\MH\\Desktop\\Project3\\Project3\\VideoList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|solutionrelative:Project3\\VideoList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|solutionrelative:Project3\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|C:\\Users\\MH\\Desktop\\Project3\\Project3\\VideoList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|solutionrelative:Project3\\VideoList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{8E03E497-C26F-4BF8-A192-908E301BDD05}|Project3\\Project3.vcxproj|solutionrelative:Project3\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "VideoList.h",
+              "DocumentMoniker": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\VideoList.h",
+              "RelativeDocumentMoniker": "Project3\\VideoList.h",
+              "ToolTip": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\VideoList.h",
+              "RelativeToolTip": "Project3\\VideoList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T15:50:05.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MyForm.h [Design]",
               "DocumentMoniker": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.h",
               "RelativeDocumentMoniker": "Project3\\MyForm.h",
               "ToolTip": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.h [Design]",
               "RelativeToolTip": "Project3\\MyForm.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-23T14:45:57.26Z",
+              "WhenOpened": "2024-12-23T15:50:03.658Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyForm.h",
-              "DocumentMoniker": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.h",
-              "RelativeDocumentMoniker": "Project3\\MyForm.h",
-              "ToolTip": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.h",
-              "RelativeToolTip": "Project3\\MyForm.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T12:20:16.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyForm.cpp",
               "DocumentMoniker": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.cpp",
               "RelativeDocumentMoniker": "Project3\\MyForm.cpp",
               "ToolTip": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\MyForm.cpp",
               "RelativeToolTip": "Project3\\MyForm.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-16T12:50:17.806Z"
+              "WhenOpened": "2024-12-23T15:49:49.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoList.cpp",
+              "DocumentMoniker": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\VideoList.cpp",
+              "RelativeDocumentMoniker": "Project3\\VideoList.cpp",
+              "ToolTip": "C:\\Users\\MH\\Desktop\\Project3\\Project3\\VideoList.cpp",
+              "RelativeToolTip": "Project3\\VideoList.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T15:49:31.54Z",
+              "EditorCaption": ""
             }
           ]
         }
