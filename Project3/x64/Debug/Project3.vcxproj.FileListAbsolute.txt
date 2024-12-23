@@ -1,0 +1,4 @@
+C:\Users\MH\Desktop\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\MH\Desktop\Project3\Project3\x64\Debug\Project3.vcxproj.ResolveComReference.cache
+C:\Users\MH\Desktop\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\MH\Desktop\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
